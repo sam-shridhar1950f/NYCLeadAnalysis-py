@@ -1,6 +1,7 @@
 <h1>Hyper-Localized Analysis of New York City's Lead Poisoning Epidemic</h1>
+<center>
 <h4 style="text-align:center;">This analysis was built in JupyterLab for the 2021 Technology Student Association Data Science & Analytics Competition.</h4>
-
+</center>
 <h3>Prerequisites</h3>
 <p>bscript requires the Java runtime environment, install Java 8 <a href="https://www.oracle.com/java/technologies/javase-jre8-downloads.html">here</a> if you don't already have it.</p>
 
