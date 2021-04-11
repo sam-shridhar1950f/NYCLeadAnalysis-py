@@ -27,5 +27,5 @@
 
 <h3>Project Documents:</h3>
 <ul>
-  
+   <li><a href="https://github.com/sam-shridhar1950f/konnect-cs/blob/master/Documentation/Slideshow.pdf">Final Slideshow</a></li>
 </ul>
