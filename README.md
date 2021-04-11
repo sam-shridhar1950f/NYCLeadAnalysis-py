@@ -1,5 +1,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/sam-shridhar1950f/NYCLeadAnalysis-py/main/logo.png"/>
+  <br>
+  <br>
 <img src="https://raw.githubusercontent.com/sam-shridhar1950f/NYCLeadAnalysis-py/main/NYC.jpg"/>
 
 </p>
