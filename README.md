@@ -1,21 +1,31 @@
-<h1>Hyper-Localized Analysis of New York City's Lead Poisoning Epidemic</h1>
-<center>
-<h4>This analysis was built in JupyterLab for the 2021 Technology Student Association Data Science & Analytics Competition.</h4>
-</center>
-<h3>Prerequisites</h3>
-<p>bscript requires the Java runtime environment, install Java 8 <a href="https://www.oracle.com/java/technologies/javase-jre8-downloads.html">here</a> if you don't already have it.</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sam-shridhar1950f/konnect-cs/master/logo.png"/>
 
-<h3>Installing</h3>
-<p>Navigate to 'releases' and download 'bscript.jar'<br>
-Run this command to execute the jar file:</p>
-<code>java -jar bscript.jar</code>
-<p>Enter the path to a <code>.b</code> file into the program to run.</p>
+</p>
+<p align="center">
+<i>Hyper-Localized Analysis of Lead Poisoning in New York City.</i>
+</p>
 
-<br>
 
-<h4>Look at the <a href="https://github.com/hershyz/bscript/tree/master/examples">examples page</a> for rules on syntax and structure.</h4>
+<p align="center">
+  The code in this repository was a data science project for Technology Student Association's (TSA) Student Leadership Conference (SLC).<br/>
+  This analysis seeks to understand and build a geographical and personal profile for at-risk children for lead poisoning living in NYC.
+</p>
 
-<br>
+<br/>
 
-<p>Remember, source code of the core can be modified to extend bscript to be viable for any use case.</p>
 
+<br/>
+
+<h3>Awards 🏆</h3>
+<ul>
+
+</ul>
+
+<br/>
+
+
+<h3>Project Documents:</h3>
+<ul>
+  
+</ul>
