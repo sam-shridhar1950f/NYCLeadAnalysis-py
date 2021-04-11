@@ -9,7 +9,7 @@
 
 <p align="center">
   The code in this repository was a data science project for Technology Student Association's (TSA) Student Leadership Conference (SLC).<br/>
-  This analysis seeks to understand and build a geographical and personal profile for at-risk children for lead poisoning living in NYC.
+  This analysis seeks to understand and build a geographical/personal profile for at-risk children for lead poisoning living in NYC.
 </p>
 
 <br/>
