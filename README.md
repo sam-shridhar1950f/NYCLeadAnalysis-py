@@ -1,5 +1,5 @@
 <p align="center">
-
+<img src="https://raw.githubusercontent.com/sam-shridhar1950f/NYCLeadAnalysis-py/main/logo.png"/>
 
 </p>
 <p align="center">
