@@ -33,4 +33,6 @@
    <li><a href="https://github.com/sam-shridhar1950f/NYCLeadAnalysis-py/blob/main/Report.pdf">Report</a></li>
 </ul>
 
-All data was sourced from <a href="https://opendata.cityofnewyork.us/">NYC OpenData</a>.
+<br>
+<br>
+All data was sourced from <a href="https://opendata.cityofnewyork.us/">NYC OpenData</a> and <a href="https://www.point2homes.com/US">Point2Homes</a>.
