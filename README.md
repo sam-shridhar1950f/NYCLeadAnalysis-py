@@ -31,7 +31,7 @@
 </ul>
 
 
-<h3>Team Members</h3>
+<h3>Team Members:</h3>
 <ul>
   <li>Mitesh Shah - <a href="https://github.com/StudioMitesh">@StudioMitesh</a></li>
   <li>Timothy Nguyen - <a href="https://github.com/TimothyNguyen04">@TimothyNguyen04</a></li>
