@@ -29,7 +29,7 @@
 <ul>
    <li><a href="https://github.com/sam-shridhar1950f/NYCLeadAnalysis-py/blob/main/Report.pdf">Report</a></li>
 </ul>
-<br>
+
 
 <h3>Team Members</h3>
 <ul>
