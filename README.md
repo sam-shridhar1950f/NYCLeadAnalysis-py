@@ -39,5 +39,6 @@
   <li>Jason Dong</li>
   <li>William Yoon</li>
 </ul>
+<br>
 
 All data was sourced from <a href="https://opendata.cityofnewyork.us/">NYC OpenData</a> and <a href="https://www.point2homes.com/US">Point2Homes</a>.
