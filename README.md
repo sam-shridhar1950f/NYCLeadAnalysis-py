@@ -25,8 +25,6 @@
   <li>#1 Data Science & Analytics Project for the 2020-2021 Georgia TSA Conference</li>
   <li>Entry in the National TSA Competiton</li>
 </ul>
-
-<br/>
 <h3>Project Documents:</h3>
 <ul>
    <li><a href="https://github.com/sam-shridhar1950f/NYCLeadAnalysis-py/blob/main/Report.pdf">Report</a></li>
