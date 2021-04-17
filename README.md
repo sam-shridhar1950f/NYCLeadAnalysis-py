@@ -33,8 +33,8 @@
 
 <h3>Team Members</h3>
 <ul>
-  <li>Mitesh Shah - @StudioMitesh</li>
-  <li>Timothy Nguyen</li>
+  <li>Mitesh Shah - <a href="https://github.com/StudioMitesh">@StudioMitesh</a></li>
+  <li>Timothy Nguyen - <a href="https://github.com/TimothyNguyen04">@TimothyNguyen04</a></li>
   <li>Steven Zhou</li>
   <li>Jason Dong</li>
   <li>William Yoon</li>
