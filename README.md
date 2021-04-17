@@ -22,7 +22,7 @@
 
 <h3>Awards 🏆</h3>
 <ul>
-
+#1 Data Science & Analytics Project for the 2020-2021 Georgia TSA Conference
 </ul>
 
 <br/>
