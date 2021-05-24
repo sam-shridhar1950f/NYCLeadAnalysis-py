@@ -3,7 +3,12 @@
   <br>
   <br>
 <img src="https://raw.githubusercontent.com/sam-shridhar1950f/NYCLeadAnalysis-py/main/NYC.jpg"/>
-
+<p>
+  Bogey is a simple web app used to grade Hackathon projects.<br/>
+  <br/>
+</p>
+  
+  
 </p>
 <p align="center">
 <i>Hyper-Localized Analysis of Lead Poisoning in New York City.</i>
