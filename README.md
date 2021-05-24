@@ -3,10 +3,7 @@
   <br>
   <br>
 <img src="https://raw.githubusercontent.com/sam-shridhar1950f/NYCLeadAnalysis-py/main/NYC.jpg"/>
-<p>
-  Bogey is a simple web app used to grade Hackathon projects.<br/>
-  <br/>
-</p>
+
   
   
 </p>
