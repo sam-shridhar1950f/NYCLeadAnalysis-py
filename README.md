@@ -25,7 +25,8 @@
 <h3>Awards 🏆</h3>
 <ul>
   <li>#1 Data Science & Analytics Project for the 2020-2021 Georgia TSA Conference</li>
-  <li>Entry in the National TSA Competiton</li>
+  <li>Top 24 National Presentations</li>
+  <li>National Semifinalist</li>
 </ul>
 <h3>Project Documents:</h3>
 <ul>
